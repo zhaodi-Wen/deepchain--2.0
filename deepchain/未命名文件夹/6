@@ -1,0 +1,460 @@
+Iter-50 worker 1, loss: 1.4096 validation: 0.923600 
+
+Iter-50 worker 2, loss: 1.3275 validation: 0.930000 
+
+Iter-50 worker 3, loss: 1.3482 validation: 0.930600 
+
+Iter-50 worker 4, loss: 1.5860 validation: 0.935400 
+
+Iter-50 worker 5, loss: 1.3953 validation: 0.893400 
+
+Iter-50 worker 6, loss: 1.5208 validation: 0.916800 
+
+Iter-50 average loss 1.4312279061791864 
+Iter-100 worker 1, loss: 1.2741 validation: 0.953200 
+
+Iter-100 worker 2, loss: 1.2644 validation: 0.955000 
+
+Iter-100 worker 3, loss: 1.2343 validation: 0.942200 
+
+Iter-100 worker 4, loss: 1.3470 validation: 0.951000 
+
+Iter-100 worker 5, loss: 1.3280 validation: 0.950600 
+
+Iter-100 worker 6, loss: 1.5005 validation: 0.926600 
+
+Iter-100 average loss 1.3247113962875259 
+Iter-150 worker 1, loss: 1.3090 validation: 0.955200 
+
+Iter-150 worker 2, loss: 1.2415 validation: 0.966400 
+
+Iter-150 worker 3, loss: 1.4053 validation: 0.952600 
+
+Iter-150 worker 4, loss: 1.2627 validation: 0.957000 
+
+Iter-150 worker 5, loss: 1.3892 validation: 0.965000 
+
+Iter-150 worker 6, loss: 1.2192 validation: 0.956600 
+
+Iter-150 average loss 1.3044978424539257 
+Iter-200 worker 1, loss: 1.2491 validation: 0.962400 
+
+Iter-200 worker 2, loss: 1.3555 validation: 0.963600 
+
+Iter-200 worker 3, loss: 1.2149 validation: 0.958600 
+
+Iter-200 worker 4, loss: 1.2533 validation: 0.951800 
+
+Iter-200 worker 5, loss: 1.2653 validation: 0.961000 
+
+Iter-200 worker 6, loss: 1.2320 validation: 0.961000 
+
+Iter-200 average loss 1.261698058055919 
+Iter-250 worker 1, loss: 1.2297 validation: 0.966000 
+
+Iter-250 worker 2, loss: 1.3296 validation: 0.961800 
+
+Iter-250 worker 3, loss: 1.2238 validation: 0.957800 
+
+Iter-250 worker 4, loss: 1.2698 validation: 0.957000 
+
+Iter-250 worker 5, loss: 1.2702 validation: 0.968000 
+
+Iter-250 worker 6, loss: 1.2342 validation: 0.964400 
+
+Iter-250 average loss 1.2595703473332238 
+Iter-300 worker 1, loss: 1.2241 validation: 0.967800 
+
+Iter-300 worker 2, loss: 1.2678 validation: 0.973200 
+
+Iter-300 worker 3, loss: 1.2403 validation: 0.970600 
+
+Iter-300 worker 4, loss: 1.2266 validation: 0.960000 
+
+Iter-300 worker 5, loss: 1.2339 validation: 0.974400 
+
+Iter-300 worker 6, loss: 1.2546 validation: 0.960600 
+
+Iter-300 average loss 1.2412081853962436 
+Iter-350 worker 1, loss: 1.2234 validation: 0.974000 
+
+Iter-350 worker 2, loss: 1.3235 validation: 0.972200 
+
+Iter-350 worker 3, loss: 1.2309 validation: 0.971800 
+
+Iter-350 worker 4, loss: 1.2615 validation: 0.966200 
+
+Iter-350 worker 5, loss: 1.2258 validation: 0.976200 
+
+Iter-350 worker 6, loss: 1.2778 validation: 0.966200 
+
+Iter-350 average loss 1.2571658392405407 
+Iter-400 worker 1, loss: 1.2890 validation: 0.971600 
+
+Iter-400 worker 2, loss: 1.3153 validation: 0.963200 
+
+Iter-400 worker 3, loss: 1.2956 validation: 0.965400 
+
+Iter-400 worker 4, loss: 1.2191 validation: 0.973400 
+
+Iter-400 worker 5, loss: 1.2740 validation: 0.973800 
+
+Iter-400 worker 6, loss: 1.2570 validation: 0.967000 
+
+Iter-400 average loss 1.274989076044163 
+Iter-450 worker 1, loss: 1.2298 validation: 0.973600 
+
+Iter-450 worker 2, loss: 1.2355 validation: 0.974000 
+
+Iter-450 worker 3, loss: 1.2187 validation: 0.973400 
+
+Iter-450 worker 4, loss: 1.2253 validation: 0.968800 
+
+Iter-450 worker 5, loss: 1.3007 validation: 0.972800 
+
+Iter-450 worker 6, loss: 1.2345 validation: 0.970000 
+
+Iter-450 average loss 1.2407472828814614 
+Iter-500 worker 1, loss: 1.2183 validation: 0.975400 
+
+Iter-500 worker 2, loss: 1.2348 validation: 0.976600 
+
+Iter-500 worker 3, loss: 1.2360 validation: 0.970200 
+
+Iter-500 worker 4, loss: 1.2847 validation: 0.971400 
+
+Iter-500 worker 5, loss: 1.4845 validation: 0.975400 
+
+Iter-500 worker 6, loss: 1.2301 validation: 0.967400 
+
+Iter-500 average loss 1.2814146878433827 
+Iter-550 worker 1, loss: 1.2260 validation: 0.969800 
+
+Iter-550 worker 2, loss: 1.2431 validation: 0.975000 
+
+Iter-550 worker 3, loss: 1.2269 validation: 0.969200 
+
+Iter-550 worker 4, loss: 1.2249 validation: 0.972800 
+
+Iter-550 worker 5, loss: 1.2593 validation: 0.977400 
+
+Iter-550 worker 6, loss: 1.2127 validation: 0.974800 
+
+Iter-550 average loss 1.2321515788039354 
+Iter-600 worker 1, loss: 1.2843 validation: 0.976400 
+
+Iter-600 worker 2, loss: 1.3308 validation: 0.976000 
+
+Iter-600 worker 3, loss: 1.2194 validation: 0.974000 
+
+Iter-600 worker 4, loss: 1.2229 validation: 0.974800 
+
+Iter-600 worker 5, loss: 1.2419 validation: 0.972800 
+
+Iter-600 worker 6, loss: 1.2285 validation: 0.972800 
+
+Iter-600 average loss 1.2546474483919572 
+Iter-650 worker 1, loss: 1.2248 validation: 0.979400 
+
+Iter-650 worker 2, loss: 1.2353 validation: 0.976800 
+
+Iter-650 worker 3, loss: 1.2265 validation: 0.971000 
+
+Iter-650 worker 4, loss: 1.2333 validation: 0.976400 
+
+Iter-650 worker 5, loss: 1.2245 validation: 0.976600 
+
+Iter-650 worker 6, loss: 1.2222 validation: 0.974400 
+
+Iter-650 average loss 1.2277381751361143 
+Iter-700 worker 1, loss: 1.2306 validation: 0.978600 
+
+Iter-700 worker 2, loss: 1.2384 validation: 0.975800 
+
+Iter-700 worker 3, loss: 1.2223 validation: 0.974200 
+
+Iter-700 worker 4, loss: 1.2299 validation: 0.976000 
+
+Iter-700 worker 5, loss: 1.2273 validation: 0.977000 
+
+Iter-700 worker 6, loss: 1.2153 validation: 0.975200 
+
+Iter-700 average loss 1.2273163343351505 
+Iter-750 worker 1, loss: 1.2165 validation: 0.978400 
+
+Iter-750 worker 2, loss: 1.2374 validation: 0.977200 
+
+Iter-750 worker 3, loss: 1.2420 validation: 0.975600 
+
+Iter-750 worker 4, loss: 1.2248 validation: 0.977000 
+
+Iter-750 worker 5, loss: 1.2519 validation: 0.976200 
+
+Iter-750 worker 6, loss: 1.2140 validation: 0.974400 
+
+Iter-750 average loss 1.2311011565546586 
+Iter-800 worker 1, loss: 1.2213 validation: 0.977600 
+
+Iter-800 worker 2, loss: 1.2290 validation: 0.976000 
+
+Iter-800 worker 3, loss: 1.2273 validation: 0.963400 
+
+Iter-800 worker 4, loss: 1.2341 validation: 0.976400 
+
+Iter-800 worker 5, loss: 1.2289 validation: 0.973600 
+
+Iter-800 worker 6, loss: 1.2128 validation: 0.975000 
+
+Iter-800 average loss 1.2255634809309792 
+Iter-850 worker 1, loss: 1.2224 validation: 0.978200 
+
+Iter-850 worker 2, loss: 1.2338 validation: 0.976800 
+
+Iter-850 worker 3, loss: 1.2282 validation: 0.973000 
+
+Iter-850 worker 4, loss: 1.2217 validation: 0.977200 
+
+Iter-850 worker 5, loss: 1.2312 validation: 0.978600 
+
+Iter-850 worker 6, loss: 1.2133 validation: 0.975800 
+
+Iter-850 average loss 1.2251040682414658 
+Iter-900 worker 1, loss: 1.2180 validation: 0.978000 
+
+Iter-900 worker 2, loss: 1.2296 validation: 0.977600 
+
+Iter-900 worker 3, loss: 1.2254 validation: 0.976800 
+
+Iter-900 worker 4, loss: 1.2215 validation: 0.977600 
+
+Iter-900 worker 5, loss: 1.2263 validation: 0.979000 
+
+Iter-900 worker 6, loss: 1.2148 validation: 0.976000 
+
+Iter-900 average loss 1.2226070199643784 
+Iter-950 worker 1, loss: 1.2185 validation: 0.977200 
+
+Iter-950 worker 2, loss: 1.2319 validation: 0.977000 
+
+Iter-950 worker 3, loss: 1.2229 validation: 0.977400 
+
+Iter-950 worker 4, loss: 1.2242 validation: 0.980000 
+
+Iter-950 worker 5, loss: 1.2286 validation: 0.979800 
+
+Iter-950 worker 6, loss: 1.2129 validation: 0.977000 
+
+Iter-950 average loss 1.2231842647121587 
+Iter-1000 worker 1, loss: 1.2182 validation: 0.980000 
+
+Iter-1000 worker 2, loss: 1.2313 validation: 0.978600 
+
+Iter-1000 worker 3, loss: 1.2237 validation: 0.977200 
+
+Iter-1000 worker 4, loss: 1.2239 validation: 0.977000 
+
+Iter-1000 worker 5, loss: 1.2294 validation: 0.979000 
+
+Iter-1000 worker 6, loss: 1.2126 validation: 0.976200 
+
+Iter-1000 average loss 1.2231757387785371 
+Iter-1050 worker 1, loss: 1.2193 validation: 0.980200 
+
+Iter-1050 worker 2, loss: 1.2304 validation: 0.978000 
+
+Iter-1050 worker 3, loss: 1.2265 validation: 0.978000 
+
+Iter-1050 worker 4, loss: 1.2235 validation: 0.980000 
+
+Iter-1050 worker 5, loss: 1.2269 validation: 0.980000 
+
+Iter-1050 worker 6, loss: 1.2141 validation: 0.977600 
+
+Iter-1050 average loss 1.2234606371028336 
+Iter-1100 worker 1, loss: 1.2274 validation: 0.979800 
+
+Iter-1100 worker 2, loss: 1.2298 validation: 0.979000 
+
+Iter-1100 worker 3, loss: 1.2246 validation: 0.978400 
+
+Iter-1100 worker 4, loss: 1.2239 validation: 0.978000 
+
+Iter-1100 worker 5, loss: 1.2259 validation: 0.978000 
+
+Iter-1100 worker 6, loss: 1.2152 validation: 0.977000 
+
+Iter-1100 average loss 1.2244580210385594 
+Iter-1150 worker 1, loss: 1.2193 validation: 0.979400 
+
+Iter-1150 worker 2, loss: 1.2302 validation: 0.978800 
+
+Iter-1150 worker 3, loss: 1.2280 validation: 0.978400 
+
+Iter-1150 worker 4, loss: 1.2334 validation: 0.979400 
+
+Iter-1150 worker 5, loss: 1.2262 validation: 0.978800 
+
+Iter-1150 worker 6, loss: 1.2280 validation: 0.978000 
+
+Iter-1150 average loss 1.2275302338390626 
+Iter-1200 worker 1, loss: 1.2201 validation: 0.980400 
+
+Iter-1200 worker 2, loss: 1.2318 validation: 0.978200 
+
+Iter-1200 worker 3, loss: 1.2291 validation: 0.980400 
+
+Iter-1200 worker 4, loss: 1.2250 validation: 0.978600 
+
+Iter-1200 worker 5, loss: 1.2281 validation: 0.980200 
+
+Iter-1200 worker 6, loss: 1.2148 validation: 0.977200 
+
+Iter-1200 average loss 1.2248014215287806 
+Iter-1250 worker 1, loss: 1.2204 validation: 0.981400 
+
+Iter-1250 worker 2, loss: 1.2303 validation: 0.978400 
+
+Iter-1250 worker 3, loss: 1.2243 validation: 0.978800 
+
+Iter-1250 worker 4, loss: 1.2240 validation: 0.978000 
+
+Iter-1250 worker 5, loss: 1.2298 validation: 0.979400 
+
+Iter-1250 worker 6, loss: 1.2137 validation: 0.977000 
+
+Iter-1250 average loss 1.2237665434247347 
+Iter-1300 worker 1, loss: 1.2191 validation: 0.979000 
+
+Iter-1300 worker 2, loss: 1.2312 validation: 0.979800 
+
+Iter-1300 worker 3, loss: 1.2237 validation: 0.978600 
+
+Iter-1300 worker 4, loss: 1.2256 validation: 0.979600 
+
+Iter-1300 worker 5, loss: 1.2269 validation: 0.979200 
+
+Iter-1300 worker 6, loss: 1.2138 validation: 0.977600 
+
+Iter-1300 average loss 1.2233726200281838 
+Iter-1350 worker 1, loss: 1.2213 validation: 0.980000 
+
+Iter-1350 worker 2, loss: 1.2297 validation: 0.978600 
+
+Iter-1350 worker 3, loss: 1.2312 validation: 0.970000 
+
+Iter-1350 worker 4, loss: 1.2248 validation: 0.979600 
+
+Iter-1350 worker 5, loss: 1.2265 validation: 0.980000 
+
+Iter-1350 worker 6, loss: 1.2141 validation: 0.977600 
+
+Iter-1350 average loss 1.224591060416513 
+Iter-1400 worker 1, loss: 1.2197 validation: 0.980400 
+
+Iter-1400 worker 2, loss: 1.2298 validation: 0.978600 
+
+Iter-1400 worker 3, loss: 1.2255 validation: 0.978200 
+
+Iter-1400 worker 4, loss: 1.2237 validation: 0.979200 
+
+Iter-1400 worker 5, loss: 1.2277 validation: 0.980200 
+
+Iter-1400 worker 6, loss: 1.2153 validation: 0.976600 
+
+Iter-1400 average loss 1.2236069665625438 
+Iter-1450 worker 1, loss: 1.2209 validation: 0.981000 
+
+Iter-1450 worker 2, loss: 1.2305 validation: 0.979400 
+
+Iter-1450 worker 3, loss: 1.2257 validation: 0.980000 
+
+Iter-1450 worker 4, loss: 1.2246 validation: 0.980400 
+
+Iter-1450 worker 5, loss: 1.2272 validation: 0.981000 
+
+Iter-1450 worker 6, loss: 1.2142 validation: 0.977800 
+
+Iter-1450 average loss 1.223862661455619 
+Iter-1500 worker 1, loss: 1.2194 validation: 0.981000 
+
+Iter-1500 worker 2, loss: 1.2306 validation: 0.979600 
+
+Iter-1500 worker 3, loss: 1.2245 validation: 0.979200 
+
+Iter-1500 worker 4, loss: 1.2252 validation: 0.979200 
+
+Iter-1500 worker 5, loss: 1.2273 validation: 0.979800 
+
+Iter-1500 worker 6, loss: 1.2136 validation: 0.978200 
+
+Iter-1500 average loss 1.2234445453997507 
+Iter-50 loss: 1.3030 validation: 0.944800
+Iter-100 loss: 1.2709 validation: 0.963800
+Iter-150 loss: 1.2299 validation: 0.971800
+Iter-200 loss: 1.2455 validation: 0.954400
+Iter-250 loss: 1.2425 validation: 0.968200
+Iter-300 loss: 1.2417 validation: 0.955800
+Iter-350 loss: 1.2338 validation: 0.977400
+Iter-400 loss: 1.2372 validation: 0.976400
+Iter-450 loss: 1.2414 validation: 0.978000
+Iter-500 loss: 1.2654 validation: 0.981200
+Iter-550 loss: 1.2474 validation: 0.982400
+Iter-600 loss: 1.2402 validation: 0.982400
+Iter-650 loss: 1.2398 validation: 0.981600
+Iter-700 loss: 1.2441 validation: 0.980800
+Iter-750 loss: 1.2409 validation: 0.983000
+Iter-800 loss: 1.2410 validation: 0.983200
+Iter-850 loss: 1.2409 validation: 0.982400
+Iter-900 loss: 1.2414 validation: 0.983000
+Iter-950 loss: 1.2406 validation: 0.981400
+Iter-1000 loss: 1.2407 validation: 0.983800
+Iter-1050 loss: 1.2408 validation: 0.983200
+Iter-1100 loss: 1.2406 validation: 0.983000
+Iter-1150 loss: 1.2413 validation: 0.983200
+Iter-1200 loss: 1.2409 validation: 0.984000
+Iter-1250 loss: 1.2416 validation: 0.984600
+Iter-1300 loss: 1.2415 validation: 0.983200
+Iter-1350 loss: 1.2411 validation: 0.982600
+Iter-1400 loss: 1.2414 validation: 0.983600
+Iter-1450 loss: 1.2413 validation: 0.984400
+Iter-1500 loss: 1.2417 validation: 0.982600
+Iter-50 loss: 1.2870 validation: 0.942200
+Iter-100 loss: 1.2969 validation: 0.951400
+Iter-150 loss: 1.3201 validation: 0.964000
+Iter-200 loss: 1.2441 validation: 0.952800
+Iter-250 loss: 1.5280 validation: 0.974400
+Iter-300 loss: 1.2834 validation: 0.975400
+Iter-350 loss: 1.2648 validation: 0.969400
+Iter-400 loss: 1.2382 validation: 0.980200
+Iter-450 loss: 1.4032 validation: 0.980200
+Iter-500 loss: 1.3262 validation: 0.979000
+Iter-550 loss: 1.2908 validation: 0.980000
+Iter-600 loss: 1.2746 validation: 0.982800
+Iter-650 loss: 1.2654 validation: 0.982800
+Iter-700 loss: 1.2547 validation: 0.983400
+Iter-750 loss: 1.2573 validation: 0.984000
+Iter-800 loss: 1.2609 validation: 0.982800
+Iter-850 loss: 1.3197 validation: 0.985000
+Iter-900 loss: 1.2776 validation: 0.986400
+Iter-950 loss: 1.2548 validation: 0.985800
+Iter-1000 loss: 1.2564 validation: 0.986400
+Iter-1050 loss: 1.3154 validation: 0.986600
+Iter-1100 loss: 1.2646 validation: 0.985800
+Iter-1150 loss: 1.2758 validation: 0.984200
+Iter-1200 loss: 1.3053 validation: 0.987800
+Iter-1250 loss: 1.3092 validation: 0.987600
+Iter-1300 loss: 1.2763 validation: 0.986600
+Iter-1350 loss: 1.2972 validation: 0.987000
+Iter-1400 loss: 1.2807 validation: 0.985000
+Iter-1450 loss: 1.2759 validation: 0.986200
+Iter-1500 loss: 1.2949 validation: 0.984600
+
+Mean accuracy 1: 0.9792, std: 0.0000
+Mean accuracy 2: 0.9795, std: 0.0000
+Mean accuracy 3: 0.9803, std: 0.0000
+Mean accuracy 4: 0.9799, std: 0.0000
+Mean accuracy 5: 0.9806, std: 0.0000
+Mean accuracy 6: 0.9756, std: 0.0000
+Mean accuracy :0.9793,std :0.0000
+Mean accuracy :0.9842,std :0.0000
+
